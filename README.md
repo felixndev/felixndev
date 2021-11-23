@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixndev
 - 👀 I’m interested in programming in general, but mainly game developing
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Front-end development
 - 📫 How to reach me: by email - felixnDeveloper@gmail.com ; by Discord - Felixn #8539
 
 <!---
