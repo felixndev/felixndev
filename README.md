@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felixndev
 - 👀 I’m interested in programming in general, but mainly game developing
 - 🌱 I’m currently learning Front-end development
-- 📫 How to reach me: by email - felixnDeveloper@gmail.com ; by Discord - Felixn #8539
+- 📫 How to reach me: by email - felixndeveloper@gmail.com ; by Discord - Felixn #8539
 
 Languages that I've experienced coding with:<br/>
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
